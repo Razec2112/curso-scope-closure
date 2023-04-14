@@ -6,3 +6,5 @@ function greeteing () {
         console.log(`Hello ${userName}`)
     }
 }
+
+greeteing ()
